@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@readme/cli": "^0.0.30"
+  }
+}
