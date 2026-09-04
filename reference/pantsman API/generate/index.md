@@ -1,0 +1,4 @@
+---
+title: /generate
+hidden: false
+---

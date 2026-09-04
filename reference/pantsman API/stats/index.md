@@ -1,0 +1,4 @@
+---
+title: /stats
+hidden: false
+---
