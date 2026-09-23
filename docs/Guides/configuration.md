@@ -9,7 +9,7 @@ pantsman is configured in two places: `config/default.json` for behavior, and `.
 | Key                | Default            | What it does                                                                                                                |
 | ------------------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | `botName`          | `pantsman`         | IRC nick. The bot always replies when this appears in a message, and ignores its own messages and DMs.                      |
-| `server`           | `irc.esper.net`    | IRC server to connect to.                                                                                                   |
+| `server`           | `irc.efnet.net`    | IRC server to connect to.                                                                                                   |
 | `channels`         | `["#somechannel"]` | Channels to join and learn from.                                                                                            |
 | `replyChance`      | `0.05`             | Probability the bot replies to a channel message that _doesn't_ mention it. Mentions always get a reply.                    |
 | `corpusFile`       | `./corpus.json`    | Where the Markov chain is saved. Resolved relative to the repo, not the working directory.                                  |
